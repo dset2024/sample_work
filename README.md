@@ -38,6 +38,5 @@
 
 Запросы на создание данных можно посмотреть [тут](https://github.com/dset2024/sample_work/blob/main/1_part_data%20_base.sql).
 
-Запросы на наполнение базы данных записями можно увидеть [здесь](https://github.com/dset2024/sample_work/blob/main/1_part_insert%20into.sql).
 
 С кодом предобработки, NLP, модели классификатора можно ознокомиться [тут](https://github.com/dset2024/sample_work/blob/main/2_part%20analysis_npl_cluster.py).
